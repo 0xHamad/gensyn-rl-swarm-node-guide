@@ -85,7 +85,7 @@ python3 -m venv .venv
 ![image](https://github.com/user-attachments/assets/40d07439-ffd1-4207-9e51-fabc3fdbb8aa)
 
 - After sometimes, u will see something like this if your running it on Linux system, so here follow the next step
-- * Now it will promt you to login: Follow: [1️⃣ How to Login or access  http://localhost:3000/ in VPS? 📶](https://github.com/Mayankgg01/Gensyn-ai-Rl-Swarm_Guide?tab=readme-ov-file#1%EF%B8%8F%E2%83%A3-how-to-login-or-access--httplocalhost3000-in-vps-)
+- * Now it will prompt you to login: Follow: [1️⃣ How to Login or access http://localhost:3000/ in VPS? 📶](https://github.com/0xHamad/gensyn-rl-swarm-node-guide?tab=readme-ov-file#1%EF%B8%8F%E2%83%A3-how-to-login-or-access--httplocalhost3000-in-vps-)
 
 * Now It will promt `Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]` Enter `N`
 

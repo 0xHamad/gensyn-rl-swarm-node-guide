@@ -185,5 +185,30 @@ cloudflared tunnel --url http://localhost:3000
  
 * Done!✅
 
+# NEXT 
+
+# 6️⃣ **Resolve Bootstraps Error**
+
+* RUN THIS CMD : (Must you should be in **rl-swarm** directory) ❗
+
+```bash
+bash -lc 'set -euo pipefail
+python3 -m venv .venv || true
+. .venv/bin/activate
+python -m pip install --upgrade pip setuptools wheel
+python -m pip install --no-cache-dir -r code_gen_exp/requirements.txt
+export PYTHONPATH="$PWD:$PYTHONPATH"
+export HYDRA_FULL_ERROR=1
+./run_rl_swarm.sh'
+```
+<pre>
+
+ 👉 Join X for more Updates: https://x.com/Hamad__Alpha
+If U have any issue then open a issue on this repo or Dm me on DC: https://discord.com/channels/@me
+
+Thank U! Best of Luck
+
+ </pre>
+
 
 

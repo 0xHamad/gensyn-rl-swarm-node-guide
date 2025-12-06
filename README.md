@@ -188,6 +188,7 @@ cloudflared tunnel --url http://localhost:3000
 # NEXT 
 
 # 6️⃣ **Resolve Bootstraps Error**
+![IMG_20251128_093321 (1)](https://github.com/user-attachments/assets/6dc53be6-b88b-4fc6-99a0-4792cacd65f1)
 
 * RUN THIS CMD : (Must you should be in **rl-swarm** directory) ❗
 

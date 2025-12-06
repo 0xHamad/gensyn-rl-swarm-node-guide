@@ -112,8 +112,8 @@ python3 -m venv .venv
 </pre>
 
 Models (CodeZero):
-   - **Qwen2.5-Coder-0.5B-Instruct** — Solver role (Recommended Choose This)  
-   - **Qwen2.5-Coder-1.5B-Instruct** — Evaluator (frozen)  
+   - **Qwen/Qwen2.5-Coder-0.5B-Instruct** — Solver role (Recommended Choose This)  
+   - **Qwen/Qwen2.5-Coder-1.5B-Instruct** — Evaluator (frozen)  
 
 Currently, we are running **CodeZero** on the Gensyn Testnet. 
 

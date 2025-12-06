@@ -201,14 +201,12 @@ export PYTHONPATH="$PWD:$PYTHONPATH"
 export HYDRA_FULL_ERROR=1
 ./run_rl_swarm.sh'
 ```
-<pre>
 
- 👉 Join X for more Updates: https://x.com/Hamad__Alpha
-If U have any issue then open a issue on this repo or Dm me on DC: https://discord.com/channels/@me
+> 👉 **Join X for more updates:** https://x.com/Hamad__Alpha  
+> 💬 **If you have any issue:** Open an issue on this repo or DM me on Discord: https://discord.com/channels/@me  
+>
+> **Thank you! Best of luck 🚀**
 
-Thank U! Best of Luck
-
- </pre>
 
 
 

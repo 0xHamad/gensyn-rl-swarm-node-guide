@@ -1,4 +1,11 @@
 <h2 align="center">🚀 Gensyn RL-SWARM Node — Ultimate Easy Guide (All Issues Fixed)</h2>
+## 🎥 Watch Video Full installation process
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/10gYpKE8_RqKsbckblI4UH5bSmZANeK8C/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📹_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Demo"/>
+  </a>
+</p>
 
 ## ⚙️ Hardware Requirements
 
@@ -202,7 +209,7 @@ bash run_rl_swarm.sh
 ```
 
 > 👉 **Join X for more updates:** https://x.com/Hamad__Alpha  
-> 💬 **If you have any issue:** Open an issue on this repo or DM me on Discord: https://discord.com/channels/@me  
+> 💬 **If you have any issue:** Open an issue on this repo or DM me on X:https://x.com/Hamad__Alpha 
 >
 > **Thank you! Best of luck 🚀**
 

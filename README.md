@@ -1,11 +1,13 @@
 <h2 align="center">🚀 Gensyn RL-SWARM Node — Ultimate Easy Guide (All Issues Fixed)</h2>
-## 🎥 Watch Video Full installation process
+
+## ⚙️ WATCH VIDEO FULL INSTALLTION PROCESS
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/10gYpKE8_RqKsbckblI4UH5bSmZANeK8C/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📹_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Demo"/>
+  <a href="https://drive.google.com/file/d/10gYpKE8_RqKsbckblI4UH5bSmZANeK8C/view">
+    <img src="https://drive.google.com/thumbnail?id=10gYpKE8_RqKsbckblI4UH5bSmZANeK8C&sz=w600-h400" alt="Installation Video" width="600"/>
   </a>
 </p>
+<p align="center"><i>👆 Click to watch full video</i></p>
 
 ## ⚙️ Hardware Requirements
 
